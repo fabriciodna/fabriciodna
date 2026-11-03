@@ -1,43 +1,36 @@
-# Olá, sou Fabrício Dantas 👋
+# Oi, sou Fabrício Dantas
 
-**Estudante de Sistemas de Informação na Universidade Vila Velha (UVV)**, em transição de carreira para desenvolvimento de software.
+Sou estudante de **Sistemas de Informação na Universidade Vila Velha (UVV)** e estou buscando minha primeira oportunidade de estágio em desenvolvimento de software.
 
-Tenho experiência anterior em gestão, compras, atendimento e processos operacionais. Hoje aplico esse conhecimento na construção de sistemas e projetos com **JavaScript, TypeScript, React, Node.js e SQL**.
+Antes de estudar programação, trabalhei com compras, fornecedores, estoque e atendimento. Essa experiência acabou influenciando os projetos que escolhi desenvolver: gosto de entender um problema do dia a dia e tentar resolvê-lo com software.
 
-Busco minha primeira oportunidade de estágio em tecnologia, com interesse especial em desenvolvimento web e back-end.
+## Tecnologias que venho usando
 
-## Tecnologias e ferramentas
+**JavaScript · TypeScript · HTML · CSS · React · Node.js · SQL · PostgreSQL**
 
-**Linguagens e interface:** JavaScript · TypeScript · HTML5 · CSS3 · React  
-**Back-end:** Node.js · APIs HTTP/REST · Zod  
-**Dados:** SQL · PostgreSQL · Prisma ORM · Kysely  
-**Ferramentas e práticas:** Git · GitHub · testes automatizados · modelagem de dados
+Também tenho estudado APIs, modelagem de dados, testes e ferramentas como Git, Kysely e Prisma.
 
-## Projetos em destaque
+## Meus projetos
 
-### [Prezely — plataforma de gestão comercial](https://github.com/fabriciodna/prezely-showcase)
+### [Prezely — cotações, compras e estoque](https://github.com/fabriciodna/prezely-showcase)
 
-Projeto pessoal em desenvolvimento, voltado à comparação de cotações de fornecedores e à integração com compras, estoque, vendas e financeiro. Utiliza React, TypeScript e PostgreSQL, com atenção a regras de negócio, identidade de produtos e isolamento de dados por empresa.
+O Prezely começou com uma dificuldade que conheço do trabalho: comparar listas de preços de fornecedores que usam nomes diferentes para os mesmos produtos. Hoje o projeto também inclui pedidos de compra, movimentações de estoque e outros fluxos comerciais.
 
-- [Apresentação pública com imagens](https://github.com/fabriciodna/prezely-showcase)
-- [Estudo de caso técnico](https://github.com/fabriciodna/prezely-showcase/blob/main/docs/CASE_STUDY.md)
-- **Código-fonte privado:** o repositório público apresenta o produto e suas decisões técnicas sem expor a implementação.
+É um projeto pessoal **em desenvolvimento**. O código permanece privado, mas organizei uma [apresentação pública](https://github.com/fabriciodna/prezely-showcase) e um [relato dos desafios técnicos](https://github.com/fabriciodna/prezely-showcase/blob/main/docs/CASE_STUDY.md).
 
-### [Blog IA — API com Node.js e PostgreSQL](https://github.com/fabriciodna/blog-ia-js)
+### [Blog IA — API com Node.js](https://github.com/fabriciodna/blog-ia-js)
 
-API de estudo que gera rascunhos com IA e permite aprovar, rejeitar e publicar posts. Inclui rotas HTTP, consultas SQL, migrations, validação com Zod e testes automatizados.
+Um projeto de estudo para gerar rascunhos de posts e controlar aprovação, rejeição e publicação. Usei Node.js, PostgreSQL, consultas SQL, migrations e testes automatizados.
 
-### [Análise de preços de combustíveis — Vila Velha/ES](https://github.com/fabriciodna/aop3-combustiveis)
+### [Preços de combustíveis em Vila Velha](https://github.com/fabriciodna/aop3-combustiveis)
 
-Aplicação web acadêmica com filtros, indicadores, gráficos e exportação para Excel a partir de uma amostra histórica de preços coletados em 2026. Desenvolvida com HTML, CSS e JavaScript.
+Projeto acadêmico feito com HTML, CSS e JavaScript. Organiza uma amostra de preços históricos, permite fazer consultas e mostra gráficos, com opção de exportar os registros para Excel.
 
 ## Formação complementar
 
-- **Formação Full Stack JavaScript — OneBitCode:** 205 horas, concluída em 2026.
+- **Full Stack JavaScript — OneBitCode:** 205 horas, concluído em 2026.
 - **Fundamentos do Node.js — Rocketseat:** 18 horas, concluído em 2026.
-- Estudos e projetos em React, bancos de dados SQL, Prisma ORM e desenvolvimento web.
 
----
+Moro em **Vila Velha, ES**. Ainda estou no começo da carreira em tecnologia, mas este perfil reúne o que venho estudando e construindo na prática.
 
-📍 Vila Velha, Espírito Santo, Brasil  
-🔎 [Confira meus repositórios](https://github.com/fabriciodna?tab=repositories)
+[Ver todos os meus repositórios](https://github.com/fabriciodna?tab=repositories)
